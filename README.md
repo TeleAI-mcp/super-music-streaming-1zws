@@ -1,2 +1,3 @@
-# super-music-streaming-1zws
-Automated issue comment bot repository
+# Super Music Streaming 1Zws
+
+Automated issue comment bot repository.
